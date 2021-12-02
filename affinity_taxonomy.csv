@@ -1,0 +1,175 @@
+segment_id,name,fullName
+26,Negocios,Affinity > Negocios
+32,Economia y Finanzas,Affinity > Negocios > Economia y Finanzas
+36,Educacion,Affinity > Educacion
+59,Tecnologia,Affinity > Tecnologia
+61,Entretenimiento,Affinity > Entretenimiento
+82,Salidas,Affinity > Entretenimiento > Salidas
+85,Conciertos,Affinity > Entretenimiento > Salidas > Conciertos
+92,Peliculas,Affinity > Entretenimiento > Peliculas
+104,Musica,Affinity > Entretenimiento > Musica
+118,Literatura,Affinity > Entretenimiento > Literatura
+129,Noticias,Affinity > Noticias
+131,TV & Series,Affinity > Entretenimiento > TV & Series
+141,Espectaculos,Affinity > Noticias > Espectaculos
+144,Familia,Affinity > Familia
+145,Relaciones y Citas,Affinity > Entretenimiento > Relaciones y Citas
+147,Padres,Affinity > Familia > Padres
+149,Casamientos,Affinity > Familia > Casamientos
+150,Madres,Affinity > Familia > Madres
+152,Salud,Affinity > Salud
+154,Dietas,Affinity > Salud > Dietas
+155,Gimnasio,Affinity > Deportes > Gimnasio
+158,Fitness y Ejercicio,Affinity > Salud > Fitness y Ejercicio
+160,Running,Affinity > Deportes > Running
+165,Comidas y Bebidas,Affinity > Comidas y Bebidas
+166,Bebidas Alcoholicas,Affinity > Comidas y Bebidas > Bebidas Alcoholicas
+177,Recetas,Affinity > Comidas y Bebidas > Comidas > Recetas
+178,Gourmet,Affinity > Comidas y Bebidas > Comidas > Gourmet
+210,Ciencia y Cultura,Affinity > Ciencia y Cultura
+213,Teatro,Affinity > Entretenimiento > Salidas > Teatro
+218,Arte,Affinity > Entretenimiento > Arte
+224,Hogar y Jardin,Affinity > Hogar y Jardin
+225,Manualidades,Affinity > Hogar y Jardin > Manualidades
+226,Decoracion,Affinity > Hogar y Jardin > Decoracion
+230,Mascotas,Affinity > Mascotas
+245,Politica,Affinity > Noticias > Politica
+247,Sustentabilidad,Affinity > Sustentabilidad
+250,Viajes y Turismo,Affinity > Viajes y Turismo
+264,Vehiculos,Affinity > Vehiculos
+265,Autos,Affinity > Vehiculos > Autos
+270,Motos,Affinity > Vehiculos > Motos
+275,Shopping y Moda,Affinity > Shopping y Moda
+302,Deportes,Affinity > Deportes
+305,Exploradores y Naturaleza,Affinity > Deportes > Exploradores y Naturaleza
+311,Extremos,Affinity > Deportes > Extremos
+313,Futbol Americano,Affinity > Deportes > Futbol Americano
+314,Futbol,Affinity > Deportes > Futbol
+315,Carreras de Autos y Motos,Affinity > Deportes > Carreras de Autos y Motos
+316,Baseball,Affinity > Deportes > Baseball
+317,Basket,Affinity > Deportes > Basket
+318,Golf,Affinity > Deportes > Golf
+322,Acuaticos,Affinity > Deportes > Acuaticos
+323,Tenis,Affinity > Deportes > Tenis
+325,Volley,Affinity > Deportes > Volley
+326,Tecnologia,Affinity > Noticias > Tecnologia
+2623,Busca empleo,Affinity > Busca empleo
+2635,Policiales,Affinity > Noticias > Policiales
+2636,Curiosidades y Miselaneas,Affinity > Noticias > Curiosidades y Miselaneas
+2660,Belleza y Moda,Affinity > Belleza y Moda
+2719,De Contacto,Affinity > Deportes > De Contacto
+2721,Administrativo,Affinity > Busca empleo > Administrativo
+2722,Gerencia,Affinity > Busca empleo > Gerencia
+2723,Ingenieros,Affinity > Busca empleo > Ingenieros
+2724,Consultor,Affinity > Busca empleo > Consultor
+2725,RRHH,Affinity > Busca empleo > RRHH
+2726,Diseño Audiovisual,Affinity > Busca empleo > Diseño Audiovisual
+2727,Produccion y mantenimiento,Affinity > Busca empleo > Produccion y mantenimiento
+2733,Ventas y marketing,Affinity > Busca empleo > Ventas y marketing
+2734,Modelos y promotoras,Affinity > Busca empleo > Modelos y promotoras
+2735,Seguridad,Affinity > Busca empleo > Seguridad
+2736,Finanzas y economia,Affinity > Busca empleo > Finanzas y economia
+2737,Tecnologia y sistemas,Affinity > Busca empleo > Tecnologia y sistemas
+3010,De Nieve,Affinity > Deportes > De Nieve
+3011,Hockey,Affinity > Deportes > Hockey
+3012,Rugby,Affinity > Deportes > Rugby
+3013,Con hijos,Affinity > Familia > Con hijos
+3014,Bebes,Affinity > Familia > Con hijos > Bebes
+3015,Niños,Affinity > Familia > Con hijos > Niños
+3016,Adolescentes,Affinity > Familia > Con hijos > Adolescentes
+3017,Clima,Affinity > Noticias > Clima
+3018,Primaria,Affinity > Educacion > Primaria
+3019,Secundaria,Affinity > Educacion > Secundaria
+3020,Universitaria,Affinity > Educacion > Universitaria
+3021,Idiomas,Affinity > Educacion > Idiomas
+3022,Maestrias,Affinity > Educacion > Maestrias
+3055,Deportes,Affinity > Noticias > Deportes
+3076,Religión,Affinity > Religión
+3077,Actualidad,Affinity > Noticias > Actualidad
+3085,Gastronomia,Affinity > Busca empleo > Gastronomia
+3086,Nacionales,Affinity > Noticias > Nacionales
+3087,Internacionales,Affinity > Noticias > Internacionales
+3913,Streaming y Videos,Affinity > Entretenimiento > Streaming y Videos
+4097,Agricultura,Affinity > Agricultura
+6115,Anime,Affinity > Entretenimiento > TV & Series > Anime
+6116,Comics y Manga,Affinity > Entretenimiento > Literatura > Comics y Manga
+6906,Videojuegos,Affinity > Tecnologia > Videojuegos
+98867,Comidas,Affinity > Comidas y Bebidas > Comidas
+98868,Profesiones,Affinity > Profesiones
+99038,Bebidas sin Alcohol,Affinity > Comidas y Bebidas > Bebidas sin Alcohol
+103917,Indumentaria,Affinity > Belleza y Moda > Indumentaria
+103918,Maquillaje,Affinity > Belleza y Moda > Maquillaje
+103919,Arquitectura,Affinity > Ciencia y Cultura > Arquitectura
+103920,Astronomia,Affinity > Ciencia y Cultura > Astronomia
+103921,Biologia,Affinity > Ciencia y Cultura > Biologia
+103922,Fisica,Affinity > Ciencia y Cultura > Fisica
+103923,Historia,Affinity > Ciencia y Cultura > Historia
+103924,Matematica,Affinity > Ciencia y Cultura > Matematica
+103925,Psicologia,Affinity > Ciencia y Cultura > Psicologia
+103926,Quimica,Affinity > Ciencia y Cultura > Quimica
+103927,Sociologia,Affinity > Ciencia y Cultura > Sociologia
+103928,Cervezas,Affinity > Comidas y Bebidas > Bebidas Alcoholicas > Cervezas
+103929,Cocktails,Affinity > Comidas y Bebidas > Bebidas Alcoholicas > Cocktails
+103930,Vinos,Affinity > Comidas y Bebidas > Bebidas Alcoholicas > Vinos
+103931,Wishky,Affinity > Comidas y Bebidas > Bebidas Alcoholicas > Wishky
+103932,Aguas,Affinity > Comidas y Bebidas > Bebidas sin Alcohol > Aguas
+103933,Cafe,Affinity > Comidas y Bebidas > Bebidas sin Alcohol > Cafe
+103934,Energizantes,Affinity > Comidas y Bebidas > Bebidas sin Alcohol > Energizantes
+103935,Gaseosas,Affinity > Comidas y Bebidas > Bebidas sin Alcohol > Gaseosas
+103936,Chocolates,Affinity > Comidas y Bebidas > Comidas > Chocolates
+103937,Dieteticas,Affinity > Comidas y Bebidas > Comidas > Dieteticas
+103938,Rapida,Affinity > Comidas y Bebidas > Comidas > Rapida
+103939,Vegana o Vegetariana,Affinity > Comidas y Bebidas > Comidas > Vegana o Vegetariana
+103940,Polo,Affinity > Deportes > Polo
+103941,Turf,Affinity > Deportes > Turf
+103942,Yoga,Affinity > Deportes > Yoga
+103943,Apuestas,Affinity > Entretenimiento > Apuestas
+103944,Fotografia,Affinity > Entretenimiento > Fotografia
+103945,Audiolibros,Affinity > Entretenimiento > Literatura > Audiolibros
+103946,Drama,Affinity > Entretenimiento > Literatura > Drama
+103947,Novelas,Affinity > Entretenimiento > Literatura > Novelas
+103948,Poemas,Affinity > Entretenimiento > Literatura > Poemas
+103949,Policiales,Affinity > Entretenimiento > Literatura > Policiales
+103950,Clasica,Affinity > Entretenimiento > Musica > Clasica
+103951,Cumbia,Affinity > Entretenimiento > Musica > Cumbia
+103952,Electronica,Affinity > Entretenimiento > Musica > Electronica
+103953,Jazz,Affinity > Entretenimiento > Musica > Jazz
+103954,Latino,Affinity > Entretenimiento > Musica > Latino
+103955,Pop,Affinity > Entretenimiento > Musica > Pop
+103956,Reggae,Affinity > Entretenimiento > Musica > Reggae
+103957,Rock,Affinity > Entretenimiento > Musica > Rock
+103958,Accion,Affinity > Entretenimiento > Peliculas > Accion
+103959,Anime,Affinity > Entretenimiento > Peliculas > Anime
+103960,Ciencia Ficcion,Affinity > Entretenimiento > Peliculas > Ciencia Ficcion
+103961,Comedia,Affinity > Entretenimiento > Peliculas > Comedia
+103962,Documental,Affinity > Entretenimiento > Peliculas > Documental
+103963,Drama,Affinity > Entretenimiento > Peliculas > Drama
+103964,Superheroes,Affinity > Entretenimiento > Peliculas > Superheroes
+103965,Thriller,Affinity > Entretenimiento > Peliculas > Thriller
+103966,Bares y Pubs,Affinity > Entretenimiento > Salidas > Bares y Pubs
+103967,Discoteca y Boliches,Affinity > Entretenimiento > Salidas > Discoteca y Boliches
+103968,Accion,Affinity > Entretenimiento > TV & Series > Accion
+103969,Ciencia Ficcion,Affinity > Entretenimiento > TV & Series > Ciencia Ficcion
+103970,Comedia,Affinity > Entretenimiento > TV & Series > Comedia
+103971,Documental,Affinity > Entretenimiento > TV & Series > Documental
+103972,Drama,Affinity > Entretenimiento > TV & Series > Drama
+103973,Superheroes,Affinity > Entretenimiento > TV & Series > Superheroes
+103974,Gatos,Affinity > Mascotas > Gatos
+103975,Perros,Affinity > Mascotas > Perros
+103976,Bitcoin y Criptomonedas,Affinity > Negocios > Bitcoin y Criptomonedas
+103977,Inversiones,Affinity > Negocios > Inversiones
+103978,Altos Rangos,Affinity > Profesiones > Altos Rangos
+103979,Arquitectos,Affinity > Profesiones > Arquitectos
+103980,Emprendedores / Pymes,Affinity > Profesiones > Emprendedores / Pymes
+103981,IT Managers,Affinity > Profesiones > IT Managers
+103982,Jovenes Profesionales,Affinity > Profesiones > Jovenes Profesionales
+103983,Oficinistas / Godines,Affinity > Profesiones > Oficinistas / Godines
+103984,Programadores,Affinity > Profesiones > Programadores
+103985,Recursos Humanos (RRHH),Affinity > Profesiones > Recursos Humanos (RRHH)
+103986,Medicina Casera,Affinity > Salud > Medicina Casera
+103987,Meditacion,Affinity > Salud > Meditacion
+103988,Aplicaciones,Affinity > Tecnologia > Aplicaciones
+103989,Consolas,Affinity > Tecnologia > Consolas
+103990,Gadgets,Affinity > Tecnologia > Gadgets
+103991,Notebooks,Affinity > Tecnologia > Notebooks
+103992,Smartphones,Affinity > Tecnologia > Smartphones
